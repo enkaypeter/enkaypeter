@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋🏾
+
+![Sentrytocat](https://octodex.github.com/images/Sentrytocat_octodex.jpg)
+
 
 <!--
 **enkaypeter/enkaypeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
